@@ -3,6 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Arya Lesmana - Portfolio',
+  
 }
 
 export default function RootLayout({
