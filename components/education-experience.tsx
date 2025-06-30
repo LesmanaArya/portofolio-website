@@ -25,18 +25,6 @@ export function EducationExperience() {
                 <CardHeader>
                   <div className="flex justify-between items-start">
                     <div>
-                      <CardTitle className="text-xl">SMAN 16 Bekasi</CardTitle>
-                      <p className="text-muted-foreground">Mathematics and Science – High School Diploma</p>
-                    </div>
-                    <span className="text-sm text-muted-foreground">2019 – 2022</span>
-                  </div>
-                </CardHeader>
-              </Card>
-
-              <Card>
-                <CardHeader>
-                  <div className="flex justify-between items-start">
-                    <div>
                       <CardTitle className="text-xl">Universitas Indonesia</CardTitle>
                       <p className="text-muted-foreground">Bachelor of Computer Science</p>
                     </div>
@@ -47,6 +35,18 @@ export function EducationExperience() {
                   <p className="font-medium">GPA: 3.50/4.00</p>
                 </CardContent>
               </Card>
+              <Card>
+                <CardHeader>
+                  <div className="flex justify-between items-start">
+                    <div>
+                      <CardTitle className="text-xl">SMAN 16 Bekasi</CardTitle>
+                      <p className="text-muted-foreground">Mathematics and Science – High School Diploma</p>
+                    </div>
+                    <span className="text-sm text-muted-foreground">2019 – 2022</span>
+                  </div>
+                </CardHeader>
+              </Card>
+
             </div>
           </div>
 
