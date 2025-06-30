@@ -8,7 +8,7 @@ export function About() {
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">About Me</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            7th-term Computer Science undergraduate at Universitas Indonesia with a strong passion for Data Science and
+            6th-term Computer Science undergraduate at Universitas Indonesia with a strong passion for Data Science and
             Artificial Intelligence. Also served as a Teaching Assistant, where I guide fellow students while
             deepening my understanding of key concepts through teaching.
           </p>
